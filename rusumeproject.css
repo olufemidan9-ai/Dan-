@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.head {
+    color: white;
+    margin-left: 70px;
+}
+
+.header {
+    background-image: url(/animepics/tanjiro-demon-slayer-kimetsu-no-yaiba-infinity-castle-4k-wallpaper-uhdpaper.com-248@2@a.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+}
